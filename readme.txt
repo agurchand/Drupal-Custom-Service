@@ -1,0 +1,2 @@
+A simple custom module with a Custom Service and how to inject the service into a Controller. You can check this tutorial here for more:
+https://theonlytutorials.com/how-to-create-a-custom-service-in-drupal-8/
